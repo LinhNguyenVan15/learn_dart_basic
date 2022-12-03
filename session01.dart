@@ -10,3 +10,4 @@ void main() {
   int yearsToHunderd = 100 - age;
   print("$name, Bạn còn $yearsToHunderd năm nữa là Mừng thọ 100 tuổi!");
 }
+ // viết chương trình hỏi tuổi, tên rồi in ra số tuổi để được mừng thọ 100 tuổi.
