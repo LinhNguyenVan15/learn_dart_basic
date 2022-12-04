@@ -1,6 +1,5 @@
 //Viết chương trình kiểm tra một số nguyên dương n có phải là số nguyên tố hay không.
 
-import 'dart:developer';
 import 'dart:io';
 import 'dart:math';
 
